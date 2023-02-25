@@ -2,9 +2,8 @@
 Upload for CS210 class
 
 Summarize the project and what problem it was solving.
-
   This project creates a savings account that takes user inputs for initial Value, monthly increase, interest rate, and the length of time in years that the account will gain interest.
-    
+  
 What did you do particularly well?
 
    I believe that I broke the program down into chunks of code that made it easier to develop and test by utilizing the SavingsAccount class.
